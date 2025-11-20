@@ -1,4 +1,4 @@
-# smart-wallet-finance-rogerio
+# vibe_coding_app_financas-Ronaldo_Sabino
 
 # 💸 App de Finanças Pessoais do Ronaldo Sabino com Vibe Coding
 
